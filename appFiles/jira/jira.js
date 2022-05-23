@@ -81,7 +81,7 @@ function jiraApp(currDockIcon){
                                         <div class="nameSpaceBox-logo">
                                         <img src="./images/jiraIIcon/teamNSpace.png" alt="">
                                     </div>
-                                    <div class="nameSpaceBox-text" >Arpit - (Rack)</div>
+                                    <div class="nameSpaceBox-text" >Pawan</div>
                             </div>
                         </div>
                         <div class="teamNSpaceArea2">

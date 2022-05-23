@@ -110,7 +110,7 @@ function linkedIn(currDockIcon){
                                     photo_camera
                                     </span>
                                 </div>
-                                <img  class="prfile-mypic" src="../../appFiles/linkedIn/image/bigMe.jfif" alt="profile">
+                                <img  class="prfile-mypic" src="../../appFiles/linkedIn/image/bigMe.jpeg" alt="profile">
                             </div>
                             <div class="inner-profileView-content">
 
@@ -121,13 +121,13 @@ function linkedIn(currDockIcon){
                                 </div>
 
                                 <div class="inner-profileView-content-Text">
-                                    Arpit Maurya
+                                    Pawan Kumar
                                 </div>
                                 <div class="inner-profileView-content-bioText">
                                     Aspiring MERN Full Stack Developer | Enthusiast Data Structure And Algorithms | JAVA
                                 </div>
                                 <div class="inner-profileView-content-address">
-                                    Mumbai, Maharashtra, India . <span>Contact info</span>
+                                     Delhi, India . <span>Contact info</span>
                                 </div>
                                 <div class="inner-profileView-content-connections"> <span>500+ connections</span>
                                 </div>
